@@ -1,11 +1,9 @@
 :root {
-    font-size:62.5%;
+    font-size: 1.2rem;
 }
 
 
-h1 {
-    font-size: 5rem;
-}
+
 .x-small {
     font-size: 0.75rem;
 }
@@ -24,19 +22,17 @@ h1 {
 }
 
 .x-large {
-    font-size: 3.75rem;
+    font-size: 4.00rem;
 }
 
 footer {
-    font-size: 30px;
+    font-size: 3rem;
 }
 
-h2 {
-    font-size: 6rem;
-}
+
 
 .description {
-    font-size: 4rem;
+    font-size: 1em;
 }
     
 
