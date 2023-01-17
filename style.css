@@ -1,0 +1,42 @@
+:root {
+    font-size:62.5%;
+}
+
+
+h1 {
+    font-size: 5rem;
+}
+.x-small {
+    font-size: 0.75rem;
+}
+
+.small {
+    font-size: 1.25rem;
+
+}
+
+.medium {
+    font-size: 2rem;
+}
+
+.large {
+    font-size: 3.25rem;
+}
+
+.x-large {
+    font-size: 3.75rem;
+}
+
+footer {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 6rem;
+}
+
+.description {
+    font-size: 4rem;
+}
+    
+
